@@ -1,4 +1,4 @@
-name: Update Website files
+name: Update the Website files
 
 on:
   push:
